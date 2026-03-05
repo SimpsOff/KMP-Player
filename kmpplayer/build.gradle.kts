@@ -1,10 +1,9 @@
-
 plugins {
     alias(libs.plugins.multiplatform)
     alias(libs.plugins.android.library)
     alias(libs.plugins.compose)
     alias(libs.plugins.compose.compiler)
-    id("com.vanniktech.maven.publish") version "+"
+    alias(libs.plugins.maven.publish)
 }
 
 group = "io.github.rufenkhokhar"
