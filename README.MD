@@ -185,6 +185,22 @@ MIT License
 Pull requests and feature ideas are welcome!  
 Open an issue to start the discussion.
 
+### Contributor Requirements
+
+- Use **JDK 21** (the project can auto-download toolchains via Gradle, but local JDK 21 is recommended)
+- Use the latest stable **Android Studio** with Kotlin Multiplatform support enabled
+- For iOS changes, use a recent **Xcode** version and verify iOS build compiles
+- Keep formatting and code style aligned with project defaults (`kotlin.code.style=official`)
+- Add or update tests when behavior changes
+- Update docs/examples when public API behavior changes
+
+### Before Opening a PR
+
+- Run a clean build and relevant tests locally
+- Keep PRs focused (single feature/fix per PR)
+- Include a clear description of what changed and why
+- For UI/UX changes, include screenshots or a short screen recording
+
 ---
 
 ## 👤 Maintainer

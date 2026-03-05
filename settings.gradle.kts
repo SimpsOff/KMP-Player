@@ -1,5 +1,3 @@
-rootProject.name = "KMP-Player"
-
 pluginManagement {
     repositories {
         google {
@@ -14,6 +12,12 @@ pluginManagement {
         mavenCentral()
     }
 }
+
+plugins {
+    id("org.gradle.toolchains.foojay-resolver-convention") version "1.0.0"
+}
+
+rootProject.name = "KMP-Player"
 
 dependencyResolutionManagement {
     repositories {
@@ -30,4 +34,3 @@ dependencyResolutionManagement {
 }
 include(":kmpplayer")
 include(":sample:composeApp")
-
