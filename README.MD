@@ -3,7 +3,7 @@
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.rufenkhokhar/KMP-Player)](https://central.sonatype.com/artifact/io.github.rufenkhokhar/KMP-Player)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?logo=kotlin&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Platform](https://img.shields.io/badge/Platforms-Android%20|%20iOS-blue)
+![Platform](https://img.shields.io/badge/Platforms-Android%20%7C%20iOS-blue)
 ![Compose](https://img.shields.io/badge/Jetpack-Compose-4285F4?logo=jetpackcompose&logoColor=white)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Issues](https://img.shields.io/github/issues/rufenkhokhar/KMP-Player)
